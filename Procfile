@@ -1,1 +1,1 @@
-discordbot: python discordbot.py
+discordbot: python fncs_Scrims_Customkey_bot.py
